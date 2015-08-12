@@ -1,7 +1,8 @@
 # Restclient
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+A simple REST Client built in Ember from a tutorial at http://connorbrewster.me/nodejs-rest-server-emberjs/.
+
+Nothing special.
 
 ## Prerequisites
 
