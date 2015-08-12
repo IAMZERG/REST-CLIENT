@@ -1,0 +1,7 @@
+{{#each model as |post|}}
+<p>Title: {{post.name}}</p>
+<p>Date: {{post.date}}</p>
+<p>Content: {{post.content}}</p>
+{{#link-to "posts.edit" post }}Edit{{/link-to}}
+{{/each}}
+{{outlet}}
